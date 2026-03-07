@@ -100,7 +100,7 @@ footer {
 
 .hero {
     height: 100vh;
-    background: url("images/LOGO-inverted-color.png") no-repeat center center/cover;
+    background: url("LOGO-inverted-color.png") no-repeat center center/cover;
     position: relative;
 }
 
@@ -157,3 +157,4 @@ footer {
     display: block;
 
 }
+
